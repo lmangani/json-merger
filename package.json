@@ -57,7 +57,7 @@
     "testURL": "http://localhost/"
   },
   "dependencies": {
-    "commander": "^9.1.0",
+    "commander": "^12.1.0",
     "fs-extra": "^10.0.1",
     "js-yaml": "^4.1.0",
     "json-ptr": "^3.1.1",
